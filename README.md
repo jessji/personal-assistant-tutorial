@@ -4,7 +4,7 @@ Personal Assistant是一个可以帮你处理你本地文件数据的助手。�
 ## Installation 安装
 安装 [LangChain](https://github.com/hwchase17/langchain)和其他依赖的包。
 ```
-pip install langchain openai unstructured
+pip install -r requirements.txt
 ```
 
 填入你的[OpenAI API key](https://platform.openai.com/account/api-keys)
